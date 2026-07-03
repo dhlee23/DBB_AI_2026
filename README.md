@@ -1,2 +1,2 @@
 # DBB_AI_2026
-# This is a repository for the project in 2026 for the work
+## Workspace and documentation for the 2026 DBB project.
